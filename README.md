@@ -5,6 +5,8 @@ WoW Guild on Staghelm - GitHub Based
 
   1. Quest Days
   2. Dungeons
+    1. Waterfall Runs
+    2. Agile Runs
   3. Leveling Spurts
   4. Achievements
   5. PVP
@@ -24,7 +26,13 @@ WoW Guild on Staghelm - GitHub Based
 7.  Mentor
 8.  Fellow
 9.  Associate
-10. Initiate 
+10. Initiate
+
+##### Other Thoughts
+
+Voice Chat
+
+Legion Release Event Suggestions and Ideas
 
 ---
 Recruitment [Chat]
